@@ -1,3 +1,4 @@
+testing some stuff
 var transactions = [
   {
     type: 'sale',
@@ -109,7 +110,7 @@ var transactions = [
   }
 ];
 
-
+testing some stuff
 // --------------------------------------------------
 // EXAMPLE QUESTION
 // --------------------------------------------------
